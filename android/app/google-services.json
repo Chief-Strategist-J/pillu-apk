@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "693866944655",
+    "project_id": "pillu-darling",
+    "storage_bucket": "pillu-darling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693866944655:android:3958cf7a8037750400f8fa",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693866944655-d5t59ta0fu5dveb38ej0ibfremkpkm3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPOWRe8iwu644VFA6otojEx2zCefJ1FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693866944655-d5t59ta0fu5dveb38ej0ibfremkpkm3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693866944655:android:ee65887ee8b06f6300f8fa",
+        "android_client_info": {
+          "package_name": "com.scaibu.pillu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693866944655-d5t59ta0fu5dveb38ej0ibfremkpkm3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPOWRe8iwu644VFA6otojEx2zCefJ1FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693866944655-d5t59ta0fu5dveb38ej0ibfremkpkm3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
