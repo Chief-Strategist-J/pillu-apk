@@ -1,4 +1,4 @@
-Chat API Service Description
+API Service Description
 
 Introduction:
 Our Chat API service provides a robust and scalable solution for integrating real-time chat functionality into your applications. Designed to facilitate seamless communication, our API enables developers to build chat features for web and mobile applications, enhancing user engagement and collaboration.
