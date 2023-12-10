@@ -4,7 +4,6 @@ Our project is a Chat API service, offering real-time messaging, multi-user chat
 **Notification Integration Documentation**
 
 *Introduction:*
-
 This documentation provides a guide on integrating push notifications into your application using the OneSignal service. Push notifications are a powerful tool for engaging users and keeping them informed about updates, messages, or events.
 
 *Prerequisites:*
@@ -19,7 +18,6 @@ Before integrating push notifications, ensure you have the following:
 *Integration Steps:*
 
 1. **Initialize OneSignal:**
-
    In your application config file
 
 2. **Configure Notification Settings:**
@@ -27,7 +25,6 @@ Before integrating push notifications, ensure you have the following:
 
 3. **Handling Notifications:**
    Implement logic to handle incoming notifications. OneSignal provides events and callbacks that allow you to execute specific actions when a notification is received or opened.
-
 
 4. **Testing:**
    Verify the integration by sending a test notification through the OneSignal dashboard or API. Ensure that the notifications are received on the target devices.
